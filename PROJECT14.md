@@ -26,4 +26,4 @@ DNS requirements
 
 Make DNS entries to create a subdomain for each environment. Assuming your main domain is idris.com. you would have a subdomain for Jenkins like this:https://ci.infradev.idris.com and so on for other environments
 
-Ansible Inventory should look like this
+Ansible Inventory should look like this,
